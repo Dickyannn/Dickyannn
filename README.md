@@ -2,7 +2,7 @@
 - 🔮 Aspiring Data Scientist and Machine Learning<br>
 - 💬 Interests in Natural Language Processing (NLP) and Transformer based models<br>
 - 🎓 Studying Computer Science @ Bogor Institute of Agriculture, Indonesia<br>
-- 🗼 Ex Telkomsel & Telkom intern, Data Analytics & Science<br>
+- 🗼<br>
 - 🌱 Currently learning: RAGs, Langchain, & model deployment
 
 
