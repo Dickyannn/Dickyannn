@@ -7,8 +7,6 @@ I love turning data into impactful solutions through Machine Learning, NLP, and 
 - 🔬 Certified Associate Data Scientist (BNSP)  
 - 🤖 Passionate about NLP, Transformers, and real-world ML applications  
 - 🚀 Top 22 Capstone Team @ Bangkit Academy 2024  
-- 🧠 Currently exploring RAGs, Langchain, and MLOps pipelines  
-- 🎓 Computer Science Student @ IPB University
 
 ## 🌐 Connect with me:
 [![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/ddickyan) 
